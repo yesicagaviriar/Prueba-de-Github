@@ -1,0 +1,4 @@
+Vuelo, Tipo Aeronave, Pasajeros, Estado
+HK4521, Turbohélice, 38, En plataforma
+HK3890, Jet regional, 62, En aproximación
+HK1203, General, 12, Programado
